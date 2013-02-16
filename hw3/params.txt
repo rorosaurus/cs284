@@ -1,0 +1,1 @@
+./a.out programlist.txt programtrace.txt 16 clock 1
